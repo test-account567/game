@@ -1,7 +1,7 @@
-# instruction
+# instruction :
 
-# git clone this repo
+# git clone this repo 
 
-# how to run game
+# how to run game ?
 
-# in cmd , in work. dir. , write command : python game.py
+# in cmd , go to working directory , write command : python game.py
